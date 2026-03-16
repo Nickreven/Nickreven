@@ -64,7 +64,9 @@
 
 ###
 <div align="center">
-  [![D20 Roll](https://img.shields.io/badge/🎲_Бросить_D20-0077FF?style=for-the-badge)](https://www.random.org/dice/?num=1)
+## 🎲 Current d20 roll
+
+![dice](https://img.shields.io/badge/d20-ROLLING-blue)
 </div>
 <!--
 **Nickreven/Nickreven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
