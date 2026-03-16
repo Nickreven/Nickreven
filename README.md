@@ -62,4 +62,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickreven&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+## 🎲 Бросок Д20
+
+![dice](https://img.shields.io/endpoint?style=for-the-badge&url=https://www.randomnumberapi.com/api/v1.0/random?min=1&max=20&count=1&label=d20&query=$[0])
 
