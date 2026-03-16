@@ -65,5 +65,5 @@
 ###
 ## 🎲 Бросок Д20
 
-![d20](https://img.shields.io/endpoint?url=https://www.randomnumberapi.com/api/v1.0/random?min=1&max=20&count=1&label=d20&query=$[0])
+![d20](https://img.shields.io/badge/d20-%F0%9F%8E%B2-lightgrey)
 
