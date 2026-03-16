@@ -47,6 +47,19 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
 </div>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="linux logo"  />
+  <img width="12" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="pycharm logo"  />
+  <img width="12" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="vscode logo" />
+  <img width="12" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="gimp logo" />
+  <img width="12" />
+</div>
 
 ###
 
