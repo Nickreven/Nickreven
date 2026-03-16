@@ -65,5 +65,5 @@
 ###
 ## 🎲 Бросок Д20
 
-![d20](https://img.shields.io/badge/d20-%F0%9F%8E%B2-lightgrey)
+![d20](https://img.shields.io/endpoint?url=https://dice-roller-api.vercel.app/api/d20)
 
