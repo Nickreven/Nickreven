@@ -63,11 +63,3 @@
 </div>
 
 
-### 🎲 Roll the d20
-
-<img src="assets/d20.svg" width="220">
-
-Refresh the page to roll again.
-
-###
-
