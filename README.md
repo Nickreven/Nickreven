@@ -20,6 +20,9 @@
   <a href="https://steamcommunity.com/id/grazztthedemonprince/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="steam logo" />
   </a>
+  <a href="www.linkedin.com/in/nickolay-pavlov-9059193b7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=linkedin&logo=steam&label=&color=171A21&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="steam logo" />
+  </a>
 </div>
 
 ###
