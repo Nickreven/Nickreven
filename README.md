@@ -64,24 +64,16 @@
 
 ###
 <div align="center">
-## 🎲 Current d20 roll
+<button onclick="roll()">Roll d20</button>
+<p id="result"></p>
 
-![dice](https://img.shields.io/badge/d20-ROLLING-blue)
+<script>
+function roll() {
+  let r = Math.floor(Math.random()*20)+1
+  document.getElementById("result").innerText = "🎲 "+r
+}
+</script>
 </div>
-<!--
-**Nickreven/Nickreven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ###
 
