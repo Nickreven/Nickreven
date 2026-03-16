@@ -62,18 +62,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickreven&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-<div align="center">
-<button onclick="roll()">Roll d20</button>
-<p id="result"></p>
 
-<script>
-function roll() {
-  let r = Math.floor(Math.random()*20)+1
-  document.getElementById("result").innerText = "🎲 "+r
-}
-</script>
-</div>
+### 🎲 Roll the d20
+
+<img src="assets/d20.svg" width="220">
+
+Refresh the page to roll again.
 
 ###
 
