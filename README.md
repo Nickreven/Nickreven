@@ -13,13 +13,13 @@
 <div align="center">
   <a href="https://m.vk.com/06f6_owen89" target="_blank">
     <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=0077FF&logoColor=white&style=for-the-badge" height="25" alt="VK logo" />
-  </a>
+  </a> 
   <a href="https://t.me/vorcusoid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram logo" />
-  </a>
+  </a> 
   <a href="https://steamcommunity.com/id/grazztthedemonprince/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="25" alt="Steam logo" />
-  </a>
+  </a> 
   <a href="https://www.linkedin.com/in/nickolay-pavlov-9059193b7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
