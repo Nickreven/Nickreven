@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 200 200">
+
+<style>
+@keyframes spin {
+0% { transform: rotate(0deg); }
+100% { transform: rotate(360deg); }
+}
+
+@keyframes roll {
+0% { opacity:0 }
+5% { opacity:1 }
+10% { opacity:0 }
+15% { opacity:1 }
+20% { opacity:0 }
+25% { opacity:1 }
+30% { opacity:0 }
+35% { opacity:1 }
+40% { opacity:0 }
+45% { opacity:1 }
+50% { opacity:0 }
+55% { opacity:1 }
+60% { opacity:0 }
+65% { opacity:1 }
+70% { opacity:0 }
+75% { opacity:1 }
+80% { opacity:0 }
+85% { opacity:1 }
+90% { opacity:0 }
+95% { opacity:1 }
+100% { opacity:1 }
+}
+
+.dice {
+animation: spin 3s linear infinite;
+transform-origin: center;
+}
+
+.number {
+font-family: monospace;
+font-size: 42px;
+fill: white;
+text-anchor: middle;
+dominant-baseline: middle;
+animation: roll 3s infinite;
+}
+</style>
+
+<polygon class="dice"
+points="100,10 170,60 150,150 50,150 30,60"
+fill="#7c3aed" stroke="#4c1d95" stroke-width="6"/>
+
+<text x="100" y="100" class="number">🎲</text>
+
+</svg>
