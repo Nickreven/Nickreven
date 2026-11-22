@@ -117,4 +117,6 @@ My interests include:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickreven&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+## 🎲 Test Your Luck
 
+[![ROLL D20](https://img.shields.io/badge/🎲_ROLL-D20-red?style=for-the-badge)](https://nickreven.github.io/d20/)
