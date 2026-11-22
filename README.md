@@ -37,7 +37,49 @@
 
 ###
 
-<p align="left">👩‍💻 Я начинающий специалист и недавний студент, который за годы обучения стремился охватить различные направления современных деятельностей. Как для расширения своих компетенций, так и для общего развития. В наше время полезно знать все. И я к этому стремлюсь. То, что находится в этом профиле- лишь малая часть того, что я хочу реализовать.🤓</p>
+<p align="left">👩‍💻 # Hi, I'm Nikolay 👋
+
+### Data Analyst | Junior Data Scientist
+
+I work with data analysis, statistical methods, and machine learning.
+
+My interests include:
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Machine Learning
+- Computer Vision & NLP
+
+### Tech Stack
+
+**Languages:** Python, SQL
+
+**Data Analysis:** Pandas, NumPy, SciPy
+
+**Visualization:** Matplotlib, Seaborn
+
+**Machine Learning:** Scikit-learn, PyTorch
+
+**Tools:** Jupyter Notebook, Git, GitHub
+
+### Featured Projects
+
+| Project | Description |
+|---|---|
+| [Image Search](https://github.com/Nickreven/Project5WithSense) | Text-to-image similarity and ML |
+| [Real Estate Analysis](https://github.com/Nickreven/Real-Estate-Listings-Analysis) | Exploratory analysis of real estate listings |
+| [Film Distribution Analysis](https://github.com/Nickreven/Analysis-of-Russian-Film-Distribution-Data) | Analysis of Russian film distribution |
+
+### Currently Improving
+
+- SQL
+- Statistical methods
+- Machine Learning
+- Software engineering practices
+
+---
+
+*Always learning. Always building.*🤓</p>
 
 
 ###
